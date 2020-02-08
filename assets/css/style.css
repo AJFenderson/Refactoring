@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #2a607c;
 }
 
 .name-bar {
@@ -21,7 +21,7 @@ body {
 }
 
 .name-bar h1 .seo {
-    color: #d9dcd6;
+    color: #13b0cc;
 }
 
 .name-bar nav {
@@ -135,8 +135,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #d9dcd6;
+    color: #2589bd;
 }
 
 .online-reputation-management {
@@ -144,8 +144,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #d9dcd6;
+    color: #2589bd;
 }
 
 .social-media-marketing {
@@ -153,8 +153,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #d9dcd6;
+    color: #2589bd;
 }
 
 .search-engine-optimization img {
